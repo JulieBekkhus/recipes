@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-* avocado 30kr
-* lime 10kr
-* salt 5kr
+* avocado 
+* lime 
+* salt
 ## Instructions
-* peel the avocados
+* peel the avocados and put them into a bowl.
